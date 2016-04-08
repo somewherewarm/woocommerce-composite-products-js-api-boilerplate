@@ -1,0 +1,4 @@
+*** WooCommerce Composite Products - JS API Boilerplate ***
+
+2016.04.08 - version 1.0.0
+ * Initial Release.
